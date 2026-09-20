@@ -1,1 +1,1 @@
-﻿Hello from feature branch!
+﻿hello from the conflict test
